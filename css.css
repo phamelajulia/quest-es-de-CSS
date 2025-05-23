@@ -1,0 +1,21 @@
+body{
+    font-size:30px;
+}
+
+
+ol{
+    color:#1b4f72;
+    background-color: #fffacd;
+    font-size:18px;
+    font-weight:bold;
+    letter-spacing:2px;
+    line-height:1,8 ;
+}
+
+p{
+    background-color: #f0f0f0;
+    font-size:20px;
+    line-height: 1.8;
+}
+
+
